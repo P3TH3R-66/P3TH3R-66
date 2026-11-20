@@ -1,6 +1,6 @@
 # Hi, I'm P-A
 
-I lead an industrial electrical maintenance team in Québec, Canada. At home I run a small homelab: a NAS with Docker, the *arr apps, Jellyfin, and Home Assistant on Proxmox.
+I lead an industrial electrical maintenance team in Canada. At home I run a small homelab: a NAS with Docker, the *arr apps, Jellyfin, and Home Assistant on Proxmox.
 
 I'm starting to give back to the open source tools I use every day:
 
